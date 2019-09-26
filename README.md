@@ -1,29 +1,3 @@
-# TripleO congress#
+# This repo has moved to OpenDev
 
-A role to manage congress tasks for TripleO
-
-## Role Variables ##
-
-**Variables used for congress**
-
-| Name              | Default Value       | Description          |
-|-------------------|---------------------|----------------------|
-| | | |
-
-
-## Requirements ##
-
- - ansible >= 2.4
- - python >= 2.6
-
-## Dependencies ##
-
-None
-
-## Example Playbooks ##
-
-
-
-## License ##
-
-Apache 2.0
+It can now be found at [https://opendev.org/x/ansible-role-tripleo-congress](https://opendev.org/x/ansible-role-tripleo-congress)
